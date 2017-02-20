@@ -1,4 +1,4 @@
-# SWOT
+# SWOT (Strengths, Weakness, Opportunities and Threats)
 
 Rishidot Research publishes our SWOT analysis in Markdown format in a Git repository. The reasons for publishing it here are
 * Easy accessibility and easy embed into any document
